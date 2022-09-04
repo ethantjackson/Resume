@@ -8,7 +8,8 @@ body {
   height: 297mm;
   margin: 0;
   overflow: none;
-  border: 1px dashed grey;
+  border-right: 1px dashed grey;
+  border-bottom: 1px dashed grey;
 }
 
 .contents {
