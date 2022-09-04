@@ -12,6 +12,10 @@ body {
   border-bottom: 1px dashed grey;
 }
 
+br {
+  line-height: 0;
+}
+
 .contents {
   padding: 0.3in 0.5in;
 }
