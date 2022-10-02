@@ -1,3 +1,9 @@
+@media print {
+  body {
+    border: none !important;
+  }
+}
+
 @page {
   size: A4;
   margin: 0;
@@ -8,10 +14,11 @@ body {
   height: 297mm;
   margin: 0;
   overflow: none;
+  border: 1px dashed grey;
 }
 
 .contents {
-  padding: 0.3in 0.52in;
+  padding: 0.2in 0.52in;
 }
 
 h1 {
@@ -52,7 +59,7 @@ i {
 }
 
 ul {
-  margin: 4px 0 0;
+  margin: 4px 0;
   font-size: 12px;
 }
 
