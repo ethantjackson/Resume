@@ -8,22 +8,16 @@ body {
   height: 297mm;
   margin: 0;
   overflow: none;
-  border-right: 1px dashed grey;
-  border-bottom: 1px dashed grey;
-}
-
-br {
-  line-height: 0;
 }
 
 .contents {
-  padding: 0.3in 0.5in;
+  padding: 0.3in 0.52in;
 }
 
 h1 {
   text-align: center;
-  font-size: 18px;
-  margin-bottom: 2px;
+  font-size: 20px;
+  margin-bottom: 8px;
 }
 
 p {
@@ -44,12 +38,12 @@ hr {
 
 h3 {
   margin: 0 0 2px;
-  font-size: 13px;
+  font-size: 12px;
 }
 
 h4 {
   margin: 0 0 2px;
-  font-size: 12.5px;
+  font-size: 12px;
 }
 
 i {
