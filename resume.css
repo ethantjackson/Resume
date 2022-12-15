@@ -64,7 +64,7 @@ ul {
 }
 
 .flex {
-  padding-top: 3px;
+  padding-top: 1px;
   display: flex;
   justify-content: space-between;
 }
